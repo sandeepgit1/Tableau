@@ -18,6 +18,6 @@ Category and sub-category wise Sales & profit
 
 To investigate the relationship between shipping cost and profit
 
-To analyze growth opportunities 
+To analyze growth opportunities for Global Superstore
 
 
